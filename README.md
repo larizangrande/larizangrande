@@ -1,54 +1,54 @@
-# 👩🏻‍💻Larissa Zangrande
-**`Estudante de Engenharia de Software`**
+<h1 align="center">👩🏻‍💻 Larissa Zangrande</h1>
 
-Me chamo Larissa, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, curso Engenharia de Software na Universidade Pitágoras Unopar Anhanguera e tenho grande interesse nas áreas de tecnologia, suporte, programação e análise de sistemas.
-
-Sou apaixonada por tecnologia e estou constantemente buscando desenvolver meus conhecimentos em banco de dados e desenvolvimento de software 
-
-Busco oportunidades para crescer profissionalmente, adquirir experiência na área de tecnologia e contribuir com projetos que gerem impacto positivo e inovação.
-
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle></svg>[<img src="https://shields.io" alt="LinkedIn Badge" height="40">](https://www.linkedin.com/in/larissa-zangrande-b37567366)
+<p align="center">
+Estudante de Engenharia de Software • Python • SQL • Desenvolvimento Web
+</p>
 
 ---
 
-### 💻Linguagens e Tecnologias
+## 💫 Sobre mim
 
-<img 
-  align="left" 
-    alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+Me chamo Larissa, sou estudante de Engenharia de Software na Unopar Anhanguera e apaixonada por tecnologia, banco de dados e desenvolvimento de software.
 
+Atualmente estudo:
+- Python
+- SQL
+- HTML/CSS
+- JavaScript
+- Lógica de Programação
 
-<img 
-  align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+Busco evoluir constantemente na área de tecnologia e construir projetos criativos e funcionais.
 
+---
 
-<img 
-  align="left" 
-    alt="GIT"
-    title="GIT" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+## 🚀 Linguagens e Tecnologias
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
+---
 
-<img 
-  align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+## 📊 Estatísticas GitHub
 
-<br/>
-<br/>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=larizangrande&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizangrande&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEUEMAIL)
