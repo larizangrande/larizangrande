@@ -13,9 +13,7 @@ Me chamo Larissa, sou estudante de Engenharia de Software na Unopar Anhanguera e
 Atualmente estudo:
 - Python
 - SQL
-- HTML/CSS
-- JavaScript
-- Lógica de Programação
+
 
 Busco evoluir constantemente na área de tecnologia e construir projetos criativos e funcionais.
 
