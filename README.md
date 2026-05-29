@@ -39,7 +39,6 @@ Busco evoluir constantemente na área de tecnologia e construir projetos criativ
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larizangrande&layout=compact&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ## 🌐 Contato
