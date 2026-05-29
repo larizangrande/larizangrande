@@ -34,7 +34,7 @@ Busco evoluir constantemente na área de tecnologia e construir projetos criativ
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=larizangrande&show_icons=true&theme=tokyonight)
 
-<img width="500" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larizangrande&layout=compact&theme=tokyonight"/>
+<img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=larizangrande&layout=compact&theme=tokyonight"/>
 ---
 
 ## 🌐 Contato
